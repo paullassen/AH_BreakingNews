@@ -2,8 +2,8 @@
 
   "manifest_version": 2,
 
-  "name": "A",
-  "description": "B",
+  "name": "Scope",
+  "description": "Stay focused",
   "version": "3",
   "content_scripts":[{
     "js": ["alt_script.js"],
