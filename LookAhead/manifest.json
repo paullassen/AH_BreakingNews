@@ -4,7 +4,7 @@
 
   "name": "Scope",
   "description": "Stay focused",
-  "version": "3",
+  "version": "1",
   "content_scripts":[{
     "js": ["alt_script.js"],
     "matches": ["*://*/*"],
