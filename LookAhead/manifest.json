@@ -11,6 +11,6 @@
     "run_at": "document_end"
     }],
     "browser_action": {
-      "default_icon": "drumpf-icon.png"
+      "default_icon": "icon.png"
     }
 }
